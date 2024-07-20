@@ -14,7 +14,7 @@ from langchain_core.prompts import ChatPromptTemplate
 
 
 ## Groq api key
-groq_api_key = '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'
+groq_api_key = ''
 
 st.title("GROQ with Llama3")
 
